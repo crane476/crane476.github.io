@@ -93,7 +93,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	font-size: 20px;
 	position: relative;
 }
-/*
+
 .custom .options li.help {
 	background-color: rgba(0,0,0,0);
 	text-align: center;
@@ -102,10 +102,10 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 
 .custom .options li.help span {
-	display: block;
+	display: none;
 	padding: 10px;
 }
-*/
+
 .custom .options li .procent {
 	position: absolute;
 	top: 10px;
