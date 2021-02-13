@@ -17,7 +17,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 */
 .custom {
 	background-color: rgba(0,0,0,0);
-	width: 400px;
+	width: 500px;
 	transition: opacity 1s;
 	padding: 10px;
 
